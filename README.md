@@ -90,14 +90,6 @@ I focus on understanding systems deeply, not just assembling libraries.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MohammedAnsari123&theme=dark&hide_border=false)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=MohammedAnsari123&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnsari123&theme=dark&layout=compact)
-
----
-
 ## 🎯 Current Focus
 - Strengthening backend system design  
 - Building production-ready full stack projects  
