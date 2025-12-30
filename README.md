@@ -43,7 +43,8 @@ I focus on understanding systems deeply, not just assembling libraries.
 - Flask  
 
 ### Databases
-- MongoDB  
+- MongoDB
+- Supabase
 
 ### AI / ML
 - Python  
@@ -74,19 +75,119 @@ I focus on understanding systems deeply, not just assembling libraries.
 - Implemented real-world development workflows using Git and GitHub  
 - Improved problem-solving skills and understanding of production-level applications  
 
+### Web Development Intern  
+**Labmentix**
+*15-Dec-2025 - 15-Jun-2025*
+- working on it now
+
 ---
 
 ## 📌 Featured Projects
-> (Pin these repositories on your GitHub profile)
+> These are the projects that are complete, functional, and demonstrate real engineering depth.  
+> Pin them on your GitHub profile.
 
-- **AI Chatbot (Full Stack)**  
-  React frontend, Node.js backend, integrated LLM APIs  
+---
 
-- **Museum Management System**  
-  Flask backend, MongoDB database, role-based admin and visitor features  
+### ⚡ ModernLiveChat (MERN Full Stack, Real-Time System)
 
-- **Traffic Management System**  
-  Data-driven analytics, map integration, and visualization  
+A production-style messaging and social platform with privacy-protected real-time chat and full admin control.
+
+**Tech**: MongoDB, Express.js, React.js, Node.js, Socket.io, JWT, Cloudinary, Tailwind CSS
+
+**Core Features**
+- One-to-one and group chats, live typing indicators, real-time notifications
+- Social feed with image uploads, likes and comments
+- JWT-secured authentication and protected routes
+- Cloudinary media upload integration
+- Dedicated **Admin Dashboard** for user, group and post moderation
+- Live analytics for platform activity
+
+**Engineering Highlights**
+- Socket architecture with event room management
+- Role-based access control and route protection
+- Modular backend with MVC structure and powerful middleware
+
+🔗 Repo: https://github.com/MohammedAnsari123/
+
+---
+
+### 🧠 MAPL Programming Language (Compiler / Interpreter Project)
+
+A custom programming language with its own grammar, execution model and multiple working example programs.
+
+**Tech**: Python (Lexer, Parser, Interpreter)
+
+**Supported Constructs**
+- Variables, arithmetic operations
+- Conditionals, loops and branching
+- Functions with parameters
+- Input and output commands
+
+**Engineering Highlights**
+- Implemented tokenization and abstract syntax tree execution
+- Designed complete syntax specification
+- Extensive test programs to validate interpreter logic
+
+🔗 Repo: https://github.com/MohammedAnsari123/
+
+---
+
+### 📊 Interactive Heatmap Generator (Data Visualization Tool)
+
+A Python-based tool that transforms raw datasets into clear heatmaps and analytics visuals.
+
+**Tech**: Python, Matplotlib, Pandas
+
+**Core Features**
+- Accepts CSV and array data
+- Clean visual heatmap generation with dynamic scaling
+- Statistical summaries (min, max, average, frequency patterns)
+- Additional charts for better insights (optional)
+
+**Engineering Highlights**
+- Data preprocessing and validation pipeline
+- Reusable plotting components for extended use cases
+
+🔗 Repo: https://github.com/MohammedAnsari123/
+
+---
+
+### 👨‍💼 Employee Management System (Software Engineering Fundamentals)
+
+A file-based employee lifecycle management system with full CRUD operations.
+
+**Tech**: Python (Structured procedural programming)
+
+**Core Features**
+- Add, update, search and delete employee data
+- Resignation workflow with logical record updates
+- Generated statistics and reports
+- Strict input validations
+
+**Engineering Highlights**
+- Clean code flow with modular functions
+- Practical real-world features instead of academic fluff
+
+🔗 Repo: https://github.com/MohammedAnsari123/
+
+---
+
+### 🚦 Traffic Management System (Backend Architecture Prototype)
+
+A strong backend foundation for traffic flow monitoring and analytics.
+
+**Tech**: Python, FastAPI, REST API Design
+
+**Core Features**
+- REST API endpoints for vehicles and movement data
+- Extensible architecture ready for dashboards and ML modules
+- Organized routing and schema structures for scaling
+
+**Engineering Highlights**
+- FastAPI with async capabilities for performance
+- Separation of logic for easy extension into real-time systems
+
+🔗 Repo: https://github.com/MohammedAnsari123/
 
 ---
 
@@ -98,4 +199,5 @@ I focus on understanding systems deeply, not just assembling libraries.
 ---
 
 ## 🔗 Links
-- GitHub: https://github.com/MohammedAnsari123  
+- GitHub: https://github.com/MohammedAnsari123
+- LinkedIn: https://www.linkedin.com/in/mohammed-ansari-065426351/
