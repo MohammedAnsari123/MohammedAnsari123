@@ -22,31 +22,81 @@ I don’t just build apps. I build **systems that scale and behave predictably u
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
 </p>
+
+---
 
 ### 🧩 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
 </p>
+
+---
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://img.shields.io/badge/Supabase-DB-green?style=flat-square" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase-Official-green?style=flat-square" />
+  </a>
 </p>
+
+---
 
 ### ⚡ Real-Time
 <p>
-  <img src="https://img.shields.io/badge/Socket.io-RealTime-black?style=flat-square">
-  <img src="https://img.shields.io/badge/WebSockets-Live-blue?style=flat-square">
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Socket.io-Docs-black?style=flat-square">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
+    <img src="https://img.shields.io/badge/WebSockets-Docs-blue?style=flat-square">
+  </a>
 </p>
+
+---
 
 ### 🤖 AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/HuggingFace-LLM-yellow?style=flat-square">
-  <img src="https://img.shields.io/badge/Groq-Llama3-orange?style=flat-square">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-Platform-yellow?style=flat-square">
+  </a>
+  <a href="https://groq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Groq-Llama3-orange?style=flat-square">
+  </a>
 </p>
 
 ---
