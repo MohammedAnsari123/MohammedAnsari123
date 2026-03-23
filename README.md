@@ -1,183 +1,173 @@
-# Mohammed Ansari
+<h1 align="center">👨‍💻 Mohammed Ansari</h1>
+<h3 align="center">Full Stack Developer | Backend Systems | AI-Integrated Applications</h3>
 
-Computer Science & Engineering Student  
-Full Stack Developer | Backend Systems | AI-Integrated Applications
-
-I build full-stack systems with a focus on **architecture, scalability, and real-world functionality**.  
-My projects include SaaS platforms, real-time communication systems, AI-powered productivity tools, and document automation systems.
-
-I focus on understanding how systems work internally rather than simply assembling libraries.
+<p align="center">
+  <a href="https://github.com/MohammedAnsari123"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/mohammed-ansari-065426351/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 About Me
 
-## Frontend
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- JavaScript (ES6+)  
-- React.js  
-- Vite  
+I don’t just build apps. I build **systems that scale and behave predictably under real-world conditions**.
 
-## Backend
-- Node.js  
-- Express.js  
-- FastAPI  
-- Flask  
-
-## Databases
-- MongoDB  
-- Supabase  
-
-## Real-Time Systems
-- Socket.io  
-- WebSockets  
-
-## AI / ML Integration
-- Python  
-- LLM APIs  
-- HuggingFace  
-- Groq (Llama 3)  
-- PDF Context Processing  
-
-## Programming Languages
-- C  
-- C++  
-- Java  
-- Python  
-- JavaScript  
-
-## Tools
-- Git  
-- GitHub  
-- Postman  
-- REST API Development  
+- Focused on backend architecture, real-time systems, and AI integration  
+- Prefer understanding internal mechanics over blindly using libraries  
+- Build production-style projects, not tutorial clones  
 
 ---
 
-# 💼 Experience
+## ⚙️ Tech Stack
 
-## Web Development Intern  
-**Static Int Edu Care, Thane**  
-*Jun 2025 – Aug 2025*
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
 
-- Worked on full-stack development using React, Node.js, Express, and MongoDB  
-- Implemented backend APIs and integrated frontend components  
-- Used Git and GitHub for version control and collaboration  
-- Learned Python basics for data science and machine learning  
+### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
 
----
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://img.shields.io/badge/Supabase-DB-green?style=flat-square" />
+</p>
 
-## Web Development Intern  
-**Labmentix**  
-*Dec 2025 – Present*
+### ⚡ Real-Time
+<p>
+  <img src="https://img.shields.io/badge/Socket.io-RealTime-black?style=flat-square">
+  <img src="https://img.shields.io/badge/WebSockets-Live-blue?style=flat-square">
+</p>
 
-- Working on full-stack development projects and backend system design  
-- Developing scalable web applications using modern JavaScript frameworks  
-- Improving skills in system architecture and production workflows  
-
----
-
-# 🚀 Featured Projects
-
-These projects demonstrate practical system design, real-time architectures, and AI integrations.
-
----
-
-## ⚡ CodeAra – Micro SaaS Builder Platform
-
-A full-stack **multi-tenant SaaS platform** that allows users to create websites and micro SaaS products using a template-driven CMS architecture.
-
-**Tech:**  
-React, Node.js, Express, MongoDB, Tailwind CSS, React Three Fiber, GSAP
-
-**Key Features**
-- Multi-tenant architecture with tenant-isolated resources  
-- Template cloning system that generates full websites for new users  
-- Dynamic template rendering engine driven by database content  
-- Admin dashboard for content editing and theme customization  
-- Scroll-driven animated landing experience  
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/HuggingFace-LLM-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/Groq-Llama3-orange?style=flat-square">
+</p>
 
 ---
 
-## 💬 ModernLiveChat – Real-Time Chat & Social Platform
+## 💼 Experience
 
-A full-stack messaging and social platform supporting real-time conversations, social posts, and group collaboration.
+### 🧑‍💻 Web Development Intern  
+**Static Int Edu Care, Thane** *(Jun 2025 – Aug 2025)*
 
-**Tech:**  
-React, Node.js, Express, MongoDB, Socket.io, Tailwind CSS, Cloudinary
-
-**Key Features**
-- Real-time messaging with Socket.io and typing indicators  
-- One-to-one chats and group chat systems  
-- Social feed with posts, likes, and comments  
-- Cloudinary image uploads and media management  
-- Dedicated admin moderation dashboard with analytics  
+- Built full-stack modules using MERN stack  
+- Designed and integrated REST APIs  
+- Worked with Git workflows and collaboration  
+- Started ML fundamentals using Python  
 
 ---
 
-## 📚 Smart Study Tracker with Classroom Collaboration
+### 🧑‍💻 Web Development Intern  
+**Labmentix** *(Dec 2025 – Present)*
 
-An academic productivity platform combining classroom collaboration, assignment tracking, and AI-powered study analytics.
-
-**Tech:**  
-React, Node.js, Express, MongoDB, FastAPI, HuggingFace APIs
-
-**Key Features**
-- Classroom system with join codes and role-based access  
-- Multi-user Kanban assignment tracking for students  
-- AI tutor with PDF context support  
-- Study analytics dashboards and productivity tracking  
-- Assignment submission and grading system  
+- Developing scalable backend systems  
+- Improving system architecture thinking  
+- Working on production-style full-stack applications  
 
 ---
 
-## ✍️ Document Signature Application
-
-A digital document signing platform allowing secure PDF uploads, signature placement, and audit tracking.
-
-**Tech:**  
-React, Node.js, Express, MongoDB, pdf-lib, Multer
-
-**Key Features**
-- Drag-and-drop signature placement on PDFs  
-- Backend PDF manipulation using pdf-lib  
-- Token-based public signing links for external users  
-- Complete audit trail for document actions  
-- Secure authentication and document ownership control  
+## 🚀 Featured Projects
 
 ---
 
-## 📅 Time Table Generator Tool
+### ⚡ CodeAra – Micro SaaS Builder
 
-An AI-assisted timetable generation system designed for academic institutions.
+**Multi-tenant SaaS platform for building websites**
 
-**Tech:**  
-React, FastAPI, MongoDB, Groq (Llama 3), HuggingFace APIs
+**Stack:** React, Node.js, MongoDB  
 
-**Key Features**
-- Automatic generation of conflict-free academic timetables  
-- Constraint validation and repair system  
-- Multi-division timetable management  
-- Export to PDF and DOCX formats  
-- Dashboard for managing generated timetables  
+**Highlights**
+- Tenant-isolated architecture  
+- Template cloning engine  
+- Dynamic rendering system  
+- Admin dashboard  
 
 ---
 
-# 🎯 Current Focus
+### 💬 ModernLiveChat
 
-- Backend system design and scalable architectures  
-- Real-time application development  
-- AI-assisted application workflows  
-- SaaS platform development  
+**Real-time chat + social platform**
+
+**Stack:** MERN + Socket.io  
+
+**Highlights**
+- Live messaging system  
+- Group chats + social feed  
+- Media uploads via Cloudinary  
+- Admin moderation dashboard  
 
 ---
 
-# 🔗 Links
+### 📚 Smart Study Tracker
 
-**GitHub**  
-https://github.com/MohammedAnsari123  
+**AI-powered academic system**
 
-**LinkedIn**  
-https://www.linkedin.com/in/mohammed-ansari-065426351/
+**Stack:** MERN + FastAPI + LLM APIs  
+
+**Highlights**
+- Classroom collaboration system  
+- AI tutor with PDF context  
+- Study analytics dashboard  
+- Assignment workflow  
+
+---
+
+### ✍️ Document Signature App
+
+**Secure PDF signing system**
+
+**Stack:** MERN  
+
+**Highlights**
+- Drag-and-drop signatures  
+- Token-based signing links  
+- Audit logs  
+- PDF manipulation backend  
+
+---
+
+### 📅 Time Table Generator
+
+**Constraint-based scheduling system**
+
+**Stack:** React + FastAPI + AI APIs  
+
+**Highlights**
+- Conflict-free timetable generation  
+- Constraint validation engine  
+- Export system  
+- Multi-division handling  
+
+---
+
+## 🎯 Current Focus
+
+- System design and backend architecture  
+- Real-time applications  
+- AI-integrated workflows  
+- SaaS platform engineering  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAnsari123&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAnsari123&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MohammedAnsari123">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mohammed-ansari-065426351/">LinkedIn</a>
+</p>
