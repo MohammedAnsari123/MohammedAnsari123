@@ -104,7 +104,7 @@ I don’t just build apps. I build **systems that scale and behave predictably u
 ## 💼 Experience
 
 ### 🧑‍💻 Web Development Intern  
-**Static Int Edu Care, Thane** *(Jun 2025 – Aug 2025)*
+**Static Int Edu Care, Kandiwali** *(Jun 2025 – Aug 2025)*
 
 - Built full-stack modules using MERN stack  
 - Designed and integrated REST APIs  
